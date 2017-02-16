@@ -6,3 +6,5 @@ Hi Git!
 Olugbenga Ajayi here!
 
 I'm currently trying to figure out this machine learning thing, so I'm starting with data science.
+
+This should be super interesting :) 
